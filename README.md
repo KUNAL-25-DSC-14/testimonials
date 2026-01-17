@@ -6,6 +6,7 @@ The project dynamically displays user testimonials with automatic transitions.
 ---
 
 ## 🔗 Live Demo
+https://kunal-25-dsc-14.github.io/testimonials/
 
 ## 🚀 Features
 - Automatic testimonial rotation
